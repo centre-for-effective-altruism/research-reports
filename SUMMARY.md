@@ -2,5 +2,5 @@
 
 * [Malaria](causes/malaria.md)
 * [Schistosomiasis](causes/schistosomiasis.md)
-* Micronutrients
+* [Micronutrients](causes/micronutrients.md)
 
