@@ -1,4 +1,4 @@
 # Summary
 
-* Malaria
+* [Malaria](causes/malaria.md)
 
