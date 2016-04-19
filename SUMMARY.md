@@ -1,5 +1,5 @@
 # Summary
 
 * [Malaria](causes/malaria.md)
-* Schistosomiasis
+* [Schistosomiasis](causes/schistosomiasis.md)
 
